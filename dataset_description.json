@@ -1,0 +1,10 @@
+{
+  "Name": "RSfMRI_Function",
+  "BIDSVersion": "1.1.1",
+  "DatasetType": "raw",
+  "Authors": [
+   "Valerio, D.",
+   "Peres, A.", 
+   "Almeida, J."],
+  "DatasetVersion": "1.0.0"
+}
